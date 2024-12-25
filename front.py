@@ -1,2 +1,0 @@
-def updateFront():
-    print("")
